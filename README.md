@@ -2,6 +2,12 @@
 
 Like a JavaScript Set, but with a TTL on entries
 
+## Installation
+
+```sh
+npm install ttl-set --save
+```
+
 ## Usage
 
 ```js
